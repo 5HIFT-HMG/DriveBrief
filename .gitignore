@@ -1,0 +1,52 @@
+# Android / IDE / generated files
+*.iml
+.idea/
+.omc/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+Thumbs.db
+
+# Secrets (examples only are publishable)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+credentials.json
+service-account*.json
+
+# Python environments and generated outputs
+.venv/
+.venv
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.cache/
+*.log
+*.tmp
+*.bak
+
+# Local databases, collected news, external model outputs
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+backend/results/
+news_crawler/*.html
+news_crawler/*.json
+!news_crawler/config.json
+
+!news_crawler/report.html

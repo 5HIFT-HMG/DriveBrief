@@ -1,0 +1,46 @@
+{
+  "policy_status": "development_placeholder_not_team_policy",
+  "length_seconds": {
+    "짧게": 30,
+    "중간": 60,
+    "길게": 120
+  },
+  "characters_per_second": 5,
+  "sentence_pause_seconds": 0.4,
+  "max_articles": 10,
+  "event": {
+    "window_hours": 36,
+    "title_similarity": 0.55,
+    "description_similarity": 0.28,
+    "min_shared_tokens": 3,
+    "balance_penalty": 0.15,
+    "location_terms": [
+      "서울",
+      "부산",
+      "인천",
+      "대구",
+      "광주",
+      "대전",
+      "울산",
+      "세종",
+      "수원",
+      "용인",
+      "평택",
+      "구미",
+      "청주",
+      "제주"
+    ]
+  },
+  "weights": {
+    "recency": 0.35,
+    "coverage": 0.15,
+    "diversity": 0.2,
+    "interest": 0.2,
+    "quality": 0.1
+  },
+  "source_aliases": {
+    "전자신문 IT": "전자신문",
+    "전자신문 SW·AI": "전자신문"
+  },
+  "input_limit": 2000
+}

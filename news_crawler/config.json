@@ -1,0 +1,269 @@
+{
+  "keywords": [
+    "AI",
+    "인공지능",
+    "반도체",
+    "야구"
+  ],
+  "limit": 5,
+  "candidate_limits": {
+    "경제": 100,
+    "사회": 100,
+    "정치": 100,
+    "IT": 100,
+    "스포츠": 100
+  },
+  "feeds": [
+    {
+      "category": "경제",
+      "source": "SBS",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02&plink=RSSREADER"
+    },
+    {
+      "category": "사회",
+      "source": "SBS",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=03&plink=RSSREADER"
+    },
+    {
+      "category": "정치",
+      "source": "SBS",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER"
+    },
+    {
+      "category": "IT",
+      "source": "전자신문 IT",
+      "url": "https://rss.etnews.com/03.xml"
+    },
+    {
+      "category": "IT",
+      "source": "전자신문 SW·AI",
+      "url": "https://rss.etnews.com/04.xml"
+    },
+    {
+      "category": "스포츠",
+      "source": "SBS",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=09&plink=RSSREADER"
+    },
+    {
+      "category": "정치",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/politic_news.xml",
+      "rss_guide": "https://www.khan.co.kr/help/help_rss.html",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+      "rss_guide": "https://www.khan.co.kr/help/help_rss.html",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "사회",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/society_news.xml",
+      "rss_guide": "https://www.khan.co.kr/help/help_rss.html",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/kh_sports.xml",
+      "rss_guide": "https://www.khan.co.kr/help/help_rss.html",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "정치",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/politics.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/economy.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/bank.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/industry.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "사회",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/society.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "IT",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/health.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/RSS/sports.xml",
+      "rss_guide": "https://www.newsis.com/RSS/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/economy",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/finance",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/realestate",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "정치",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/politics",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "사회",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/society",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "IT",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/it",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/feed/sports",
+      "rss_guide": "https://www.hankyung.com/feed",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/30100041/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/50100032/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/50200011/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/50300009/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "정치",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/30200030/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "사회",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/50400012/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/71000001/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "IT",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/rss/50700001/",
+      "rss_guide": "https://www.mk.co.kr/rss",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "정치",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibPolRss.xml",
+      "rss_guide": "https://www.kmib.co.kr/rss/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "경제",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibEcoRss.xml",
+      "rss_guide": "https://www.kmib.co.kr/rss/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "사회",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibSocRss.xml",
+      "rss_guide": "https://www.kmib.co.kr/rss/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibSpoRss.xml",
+      "rss_guide": "https://www.kmib.co.kr/rss/",
+      "usage_scope": "personal_rss_metadata"
+    },
+    {
+      "category": "스포츠",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibGolfRss.xml",
+      "rss_guide": "https://www.kmib.co.kr/rss/",
+      "usage_scope": "personal_rss_metadata"
+    }
+  ],
+  "cloud_storage": {
+    "retention_days": 5,
+    "max_articles": 10000
+  }
+}

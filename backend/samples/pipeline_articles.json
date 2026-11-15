@@ -1,0 +1,53 @@
+[
+  {
+    "article": {
+      "id": "fiction-01",
+      "title": "[가상 테스트] 가상 장터 운영 계획",
+      "body": "가상 다온시 상인회는 2026년 11월 11일 공동 장터 운영 계획을 발표했습니다.\n가상 장터에는 상점 12곳이 참여할 예정이며 운영 예산은 300만원입니다.\n가상 상인회 대표 김다온은 시범 운영 후 참여 상점의 의견을 확인하겠다고 밝혔습니다.",
+      "source": "DriveBrief 자체 작성 가상 자료",
+      "rights": {
+        "kind": "fictional",
+        "external_llm_allowed": true,
+        "summary_reuse_allowed": true,
+        "basis": "DriveBrief 개발 테스트를 위해 새로 작성한 허구 자료. 실제 기사·인물·기관을 재사용하지 않음."
+      }
+    },
+    "published_at": "2026-11-12T09:00:00+09:00",
+    "source_url": null,
+    "origin": "DriveBrief 자체 작성 가상 통합 테스트 기사. 발행 시각도 합성 메타데이터."
+  },
+  {
+    "article": {
+      "id": "fiction-02",
+      "title": "[가상 테스트] 가상 공원 정비 완료",
+      "body": "가상 새봄구는 2026년 11월 10일 공원 벤치 20개를 교체했다고 발표했습니다.\n가상 정비 작업은 공원 2곳에서 진행됐으며 나무 추가 식재는 포함되지 않았습니다.\n가상 구청 담당자 이새봄은 이용자 의견을 수렴한 뒤 다음 정비 범위를 검토하겠다고 말했습니다.",
+      "source": "DriveBrief 자체 작성 가상 자료",
+      "rights": {
+        "kind": "fictional",
+        "external_llm_allowed": true,
+        "summary_reuse_allowed": true,
+        "basis": "DriveBrief 개발 테스트를 위해 새로 작성한 허구 자료. 실제 기사·인물·기관을 재사용하지 않음."
+      }
+    },
+    "published_at": "2026-11-12T09:00:00+09:00",
+    "source_url": null,
+    "origin": "DriveBrief 자체 작성 가상 통합 테스트 기사. 발행 시각도 합성 메타데이터."
+  },
+  {
+    "article": {
+      "id": "fiction-03",
+      "title": "[가상 테스트] 가상 주민 토론회",
+      "body": "가상 열린구 의회는 2026년 11월 12일 주민 토론회를 열 계획이라고 밝혔습니다.\n가상 토론회에는 주민 30명이 참석할 예정이며 주제는 보행로 개선입니다.\n가상 의장 박열린은 이번 토론회가 예산 확정을 의미하지 않는다고 설명했습니다.",
+      "source": "DriveBrief 자체 작성 가상 자료",
+      "rights": {
+        "kind": "fictional",
+        "external_llm_allowed": true,
+        "summary_reuse_allowed": true,
+        "basis": "DriveBrief 개발 테스트를 위해 새로 작성한 허구 자료. 실제 기사·인물·기관을 재사용하지 않음."
+      }
+    },
+    "published_at": "2026-11-12T09:00:00+09:00",
+    "source_url": null,
+    "origin": "DriveBrief 자체 작성 가상 통합 테스트 기사. 발행 시각도 합성 메타데이터."
+  }
+]
