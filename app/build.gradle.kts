@@ -14,16 +14,16 @@ android {
         minSdk = 28
         targetSdk = 37
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
+            // R8 최적화를 켜면 시작 시 IllegalAccessError로 종료된다(#1). debug에서 검증한 코드 그대로 낸다.
             optimization {
-                enable = true
-                packageScope = setOf("androidx.**", "kotlin.**", "kotlinx.**")
+                enable = false
             }
         }
     }
